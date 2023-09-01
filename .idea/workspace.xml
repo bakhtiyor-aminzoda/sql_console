@@ -5,15 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="30dda63f-c2d6-4e4a-ad78-ad609b41ea0e" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/597f2130-2cf5-4c51-a0b5-5b7b17a57830.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/597f2130-2cf5-4c51-a0b5-5b7b17a57830/storage_v2/_src_/schema/crm_alif_tj.LLZX1A.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/597f2130-2cf5-4c51-a0b5-5b7b17a57830/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/597f2130-2cf5-4c51-a0b5-5b7b17a57830/storage_v2/_src_/schema/performance_schema.kIw0nw.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/console.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sql_console" beforeDir="false" afterPath="$PROJECT_DIR$/sql_console" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sql_console/console.sql" beforeDir="false" afterPath="$PROJECT_DIR$/sql_console/console.sql" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,7 +18,7 @@
     <execution />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/sql_console" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -372,7 +365,8 @@
       <workItem from="1693462395589" duration="3529000" />
       <workItem from="1693545601402" duration="4621000" />
       <workItem from="1693558702911" duration="2300000" />
-      <workItem from="1693561092870" duration="435000" />
+      <workItem from="1693561092870" duration="961000" />
+      <workItem from="1693562072631" duration="308000" />
     </task>
     <servers />
   </component>
@@ -406,9 +400,6 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/storage/logs/answers.json">
